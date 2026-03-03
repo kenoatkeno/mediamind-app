@@ -1,0 +1,261 @@
+[
+    {
+        "channel": "YouTube",
+        "uk_average_cpm_gbp": 16.50,
+        "uk_reach_monthly_millions": 46.5,
+        "best_for_objectives": [
+            "Brand Awareness",
+            "Consideration",
+            "Video Views"
+        ],
+        "demographic_strength": {
+            "16_24": 9,
+            "25_34": 9,
+            "35_44": 8,
+            "45_54": 7,
+            "55_plus": 6
+        },
+        "min_budget_gbp": 500,
+        "typical_formats": [
+            "Skippable In-Stream",
+            "Bumper Ads",
+            "Shorts"
+        ],
+        "avg_lead_time_days": 2,
+        "seasonality_q4_uplift_percent": 30,
+        "agency_required": false,
+        "notes": "Excellent for high-attention video. Shorts format is driving cheap CPMs for upper-funnel."
+    },
+    {
+        "channel": "Instagram",
+        "uk_average_cpm_gbp": 9.20,
+        "uk_reach_monthly_millions": 35.0,
+        "best_for_objectives": [
+            "Brand Awareness",
+            "Conversions",
+            "Lead Generation"
+        ],
+        "demographic_strength": {
+            "16_24": 10,
+            "25_34": 9,
+            "35_44": 7,
+            "45_54": 5,
+            "55_plus": 3
+        },
+        "min_budget_gbp": 300,
+        "typical_formats": [
+            "Reels",
+            "Stories",
+            "Feed Image"
+        ],
+        "avg_lead_time_days": 1,
+        "seasonality_q4_uplift_percent": 45,
+        "agency_required": false,
+        "notes": "Reels are currently the most cost-effective placement. Essential for lifestyle, D2C, and visual brands."
+    },
+    {
+        "channel": "Facebook",
+        "uk_average_cpm_gbp": 7.80,
+        "uk_reach_monthly_millions": 43.0,
+        "best_for_objectives": [
+            "Conversions",
+            "Lead Generation",
+            "Traffic"
+        ],
+        "demographic_strength": {
+            "16_24": 4,
+            "25_34": 6,
+            "35_44": 8,
+            "45_54": 9,
+            "55_plus": 9
+        },
+        "min_budget_gbp": 300,
+        "typical_formats": [
+            "Video Feed",
+            "Carousel",
+            "Static Image"
+        ],
+        "avg_lead_time_days": 1,
+        "seasonality_q4_uplift_percent": 40,
+        "agency_required": false,
+        "notes": "Still the strongest driver of direct response for audiences 35+. Advantage+ shopping campaigns are highly effective."
+    },
+    {
+        "channel": "TikTok",
+        "uk_average_cpm_gbp": 5.50,
+        "uk_reach_monthly_millions": 25.0,
+        "best_for_objectives": [
+            "Brand Awareness",
+            "Engagement",
+            "Conversions"
+        ],
+        "demographic_strength": {
+            "16_24": 10,
+            "25_34": 8,
+            "35_44": 5,
+            "45_54": 3,
+            "55_plus": 2
+        },
+        "min_budget_gbp": 500,
+        "typical_formats": [
+            "In-Feed Video",
+            "Spark Ads"
+        ],
+        "avg_lead_time_days": 1,
+        "seasonality_q4_uplift_percent": 25,
+        "agency_required": false,
+        "notes": "Requires native-feeling, creator-led video content. Repurposed TV ads will fail here."
+    },
+    {
+        "channel": "Spotify",
+        "uk_average_cpm_gbp": 14.00,
+        "uk_reach_monthly_millions": 22.0,
+        "best_for_objectives": [
+            "Brand Awareness",
+            "Reach"
+        ],
+        "demographic_strength": {
+            "16_24": 9,
+            "25_34": 8,
+            "35_44": 7,
+            "45_54": 5,
+            "55_plus": 3
+        },
+        "min_budget_gbp": 250,
+        "typical_formats": [
+            "Audio Ads",
+            "Video Takeover"
+        ],
+        "avg_lead_time_days": 2,
+        "seasonality_q4_uplift_percent": 20,
+        "agency_required": false,
+        "notes": "Great for hyper-local targeting and screenless moments. Audio creative needs to be bespoke."
+    },
+    {
+        "channel": "Google Display",
+        "uk_average_cpm_gbp": 3.50,
+        "uk_reach_monthly_millions": 48.0,
+        "best_for_objectives": [
+            "Remarketing",
+            "Reach",
+            "Traffic"
+        ],
+        "demographic_strength": {
+            "16_24": 7,
+            "25_34": 8,
+            "35_44": 8,
+            "45_54": 8,
+            "55_plus": 8
+        },
+        "min_budget_gbp": 200,
+        "typical_formats": [
+            "Responsive Display",
+            "Static Banners"
+        ],
+        "avg_lead_time_days": 1,
+        "seasonality_q4_uplift_percent": 15,
+        "agency_required": false,
+        "notes": "Best used strictly for remarketing to website visitors. Cold prospecting yields very low click-through rates."
+    },
+    {
+        "channel": "Google Search",
+        "uk_average_cpm_gbp": 45.00,
+        "uk_reach_monthly_millions": 49.0,
+        "best_for_objectives": [
+            "Conversions",
+            "Lead Generation",
+            "Traffic"
+        ],
+        "demographic_strength": {
+            "16_24": 8,
+            "25_34": 9,
+            "35_44": 9,
+            "45_54": 9,
+            "55_plus": 8
+        },
+        "min_budget_gbp": 300,
+        "typical_formats": [
+            "Search Text",
+            "Performance Max"
+        ],
+        "avg_lead_time_days": 1,
+        "seasonality_q4_uplift_percent": 35,
+        "agency_required": false,
+        "notes": "High intent, high cost. Essential for capturing active demand. (Note: CPM is a proxy; search is bought on CPC)."
+    },
+    {
+        "channel": "DAX Digital Audio",
+        "uk_average_cpm_gbp": 12.00,
+        "uk_reach_monthly_millions": 28.0,
+        "best_for_objectives": [
+            "Brand Awareness",
+            "Reach"
+        ],
+        "demographic_strength": {
+            "16_24": 6,
+            "25_34": 7,
+            "35_44": 8,
+            "45_54": 8,
+            "55_plus": 7
+        },
+        "min_budget_gbp": 1000,
+        "typical_formats": [
+            "Radio Stream Audio",
+            "Podcast Audio"
+        ],
+        "avg_lead_time_days": 5,
+        "seasonality_q4_uplift_percent": 20,
+        "agency_required": true,
+        "notes": "Accesses commercial radio digital streams (Capital, Heart, etc.) and premium podcasts. Good for commuting audiences."
+    },
+    {
+        "channel": "Outdoor/DOOH",
+        "uk_average_cpm_gbp": 8.50,
+        "uk_reach_monthly_millions": 38.0,
+        "best_for_objectives": [
+            "Brand Awareness",
+            "Location Footfall"
+        ],
+        "demographic_strength": {
+            "16_24": 8,
+            "25_34": 8,
+            "35_44": 7,
+            "45_54": 7,
+            "55_plus": 6
+        },
+        "min_budget_gbp": 2500,
+        "typical_formats": [
+            "Digital 6-Sheet",
+            "Large Format Digital Billboard"
+        ],
+        "avg_lead_time_days": 10,
+        "seasonality_q4_uplift_percent": 30,
+        "agency_required": true,
+        "notes": "Digital Out of Home. Best for building physical presence in specific cities. Highly visual, 5-second max message length."
+    },
+    {
+        "channel": "Linear TV",
+        "uk_average_cpm_gbp": 22.00,
+        "uk_reach_monthly_millions": 44.0,
+        "best_for_objectives": [
+            "Mass Reach",
+            "Brand Trust"
+        ],
+        "demographic_strength": {
+            "16_24": 3,
+            "25_34": 4,
+            "35_44": 6,
+            "45_54": 9,
+            "55_plus": 10
+        },
+        "min_budget_gbp": 15000,
+        "typical_formats": [
+            "30-Second Spot",
+            "10-Second Sponsorship"
+        ],
+        "avg_lead_time_days": 21,
+        "seasonality_q4_uplift_percent": 40,
+        "agency_required": true,
+        "notes": "Still the ultimate brand-building channel, though increasingly skewed to older demographics. Requires high production quality."
+    }
+]
