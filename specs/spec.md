@@ -47,9 +47,9 @@ Agency:  £199/month — all Pro + 5 seats, client management,
 ---
 
 ## CURRENT STATUS
-Active Milestone: 1 — Foundation
-Last completed task: 1.6 — Initialise React App
-Last session: 2026-03-03 — Task 1.6 complete
+Active Milestone: 2 — The Strategist (COMPLETED)
+Last completed task: 2.9 — Commit frontend work
+Last session: 2026-03-07 — Milestone 2 fully complete
 
 ** Update this block at the end of every session **
 
@@ -91,7 +91,7 @@ Sub-agent: backend-agent.md
            Vite + React + TypeScript + Tailwind + shadcn/ui
            Configure design tokens in tailwind.config.ts
            Confirm dev server starts without errors
-- [ ] 1.7  First GitHub commit on dev branch:
+- [x] 1.7  First GitHub commit on dev branch:
            "chore: foundation — structure, schema, 
             benchmark data, React init"
 
@@ -108,11 +108,11 @@ Goal: Conversational planning flow, AI mix generation,
       results dashboard, PDF export, auth, user dashboard
 Sub-agents: backend-agent.md + frontend-agent.md
 
-- [ ] 2.1  Edge function: generate-plan
+- [x] 2.1  Edge function: generate-plan
            (full spec in gemini-agent.md)
-- [ ] 2.2  Edge function: save-plan
+- [x] 2.2  Edge function: save-plan
            Enforces tier plan limits before saving
-- [ ] 2.3  Conversational input interface — /app/new-plan
+- [x] 2.3  Conversational input interface — /app/new-plan
            5-question flow (not a form — a conversation)
            Q1: "What's your budget and what do you sell?"
            Q2: "Who are you trying to reach?"
@@ -120,7 +120,7 @@ Sub-agents: backend-agent.md + frontend-agent.md
            Q4: "When do you want to run it?"
            Q5: "Any channels you want or want to avoid?"
            Progress dots at top. Slide transition between Qs.
-- [ ] 2.4  Results dashboard — /app/plan/:id
+- [x] 2.4  Results dashboard — /app/plan/:id
            Animated doughnut chart (draws on load, Recharts)
            Channel cards (staggered entrance, motion/react)
            Seasonality alert banner (Q4 detection)
@@ -128,26 +128,26 @@ Sub-agents: backend-agent.md + frontend-agent.md
            TV/Radio readiness panel for broadcast channels
            "Deploy to Ad Accounts" — disabled with tooltip
            (unlocked in Milestone 3)
-- [ ] 2.5  PDF export — React-PDF
+- [x] 2.5  PDF export — React-PDF
            Page 1: Campaign summary
            Page 2: Media mix chart + channel breakdown table
            Page 3: Rationale + suggested next steps
            Free: diagonal watermark. Paid: clean branded PDF.
-- [ ] 2.6  User dashboard — /app
+- [x] 2.6  User dashboard — /app
            Saved plans list (name, date, budget, channel count)
            Empty state with clear CTA
            Plan limit indicator for free tier
            Duplicate, view, delete actions per plan
-- [ ] 2.7  Auth pages — /login and /signup
+- [x] 2.7  Auth pages — /login and /signup
            Email + password and Google OAuth
            Post-signup: create users row, tier = 'free'
            Auth guard on all /app/* routes
-- [ ] 2.8  App shell and routing
+- [x] 2.8  App shell and routing
            Top nav: logo, dashboard link, pricing, auth buttons
            Page transitions: fade + 8px upward slide
            Routes: / | /app | /app/new-plan | /app/plan/:id
                    /login | /signup | /pricing
-- [ ] 2.9  Commit: "feat(strategist): conversational planning,
+- [x] 2.9  Commit: "feat(strategist): conversational planning,
            results dashboard, PDF, auth, user dashboard"
 
 Definition of Done — Milestone 2:
